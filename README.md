@@ -1,3 +1,3 @@
-# n8n-RAG-_Index-Workflow
+# n8n-RAG-Index-Workflow
 
 Please refer the Documentation file.
